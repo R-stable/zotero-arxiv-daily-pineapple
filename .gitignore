@@ -18,5 +18,4 @@ models
 test-compose.yml
 outputs
 config/private.yaml
-!场景解析/
-!场景解析/**
+
